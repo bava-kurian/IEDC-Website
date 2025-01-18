@@ -75,8 +75,9 @@ const StartupSupport = () => {
         className='max-w-screen-2xl mx-auto w-full px-6 text-white grid grid-cols-1 md:grid-cols-2'
       >
         <div className="space-y-2 mb-14">
-          <p className='text-sm font-normal text-gray-300 text-center md:text-left'>Webinars</p>
-          <h2 className='text-3xl md:text-5xl font-normal text-center md:text-left'>Tune into our insights</h2>
+          <p className='text-sm font-normal text-gray-300 text-center md:text-left md:ml-6'>Events</p>
+          <h2 className='text-3xl md:text-5xl font-normal text-center md:text-left md:ml-6'>Upcoming Events</h2>
+          <p className='text-sm font-normal text-gray-300 text-center md:text-left md:text-justify max-w-sm md:ml-6'>Brace yourself for a lineup of transformative events where innovation, passion, and bold ideas collide. These experiences are designed to ignite your drive, empower your journey, and unleash the visionary within. This is more than an event; it’s your platform to inspire, create, and define the future.</p>
         </div>
         <div className="space-y-4">
           <div className="py-16 md:py-8 px-8 rounded-2xl space-y-2"
